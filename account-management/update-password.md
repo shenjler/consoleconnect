@@ -1,7 +1,5 @@
 # Update Password
 
-#### Update Password <a href="#update-password" id="update-password"></a>
-
 Click on your **profile image** (or placeholder) next to the search box in the top right corner to access the **settings menu**.
 
 Click **Change password** and follow the step-by-step instructions.
@@ -24,13 +22,27 @@ Account administrators are the primary custodian of the company’s account, whi
 
 #### [How do I join a company?](https://www.consoleconnect.com/help/account-management/#)
 
+Go to Settings, select “Create or join a company” from the menu on the left. Start typing and when you see the name of your company, select it. You will then see an “Ask to join” button. Your request to join the company will go to the Community Admin of that company. You should only request to join a company that you are currently employed by.
+
 #### [Who can see my company?](https://www.consoleconnect.com/help/account-management/#)
+
+By default, your company is visible to anyone logged into Console Connect. You can request to change this by contacting support@consoleconnet.com.
 
 #### [How do I update my company profile?](https://www.consoleconnect.com/help/account-management/#)
 
+Community admins may change roles of company members by visiting the company’s profile page, then selecting Edit Profile.
+
 #### [What does it mean to be visible on the Console Connect community?](https://www.consoleconnect.com/help/account-management/#)
 
+People and Companies are publicly visible on the Console Connect platform. This means people can view Profiles, Articles and Posts of both individuals and companies without logging in.
+
+Network Admin members of verified Companies will be able to see the Metros in which you have ports (but not specific details, like data center or port names) as this information is necessary for making connections.
+
+Other than the Metro (city name) we will never expose specific details about your network, including port names, data center locations or your available and/or allocated bandwidth.
+
 #### [Can I hide either myself or my company on the Console Connect community?](https://www.consoleconnect.com/help/account-management/#)
+
+Not at this time. This feature may be available in the future.
 
 #### Roles and Permissions <a href="#roles-permissions" id="roles-permissions"></a>
 
@@ -73,9 +85,15 @@ A Member is associated with your Company but may not edit company profile inform
 
 #### [How do I assign and change roles for company members?](https://www.consoleconnect.com/help/account-management/#)
 
+Community admins may change roles of company members by visiting the **company’s profile page**, selecting **Edit Profile**, then **Company members**.
+
 #### [How do I remove a member from my company?](https://www.consoleconnect.com/help/account-management/#)
 
+Community admins may change roles of company members by visiting the **company’s profile page**, selecting **Edit Profile**, then **Company members**. **Select the check box** to the left of the member(s) to delete, then select **Remove member**, followed by **Apply**.
+
 #### [I don't have any admin rights on Console Connect but need more access?](https://www.consoleconnect.com/help/account-management/#)
+
+You can request extra permissions from the Account Administrator or a Community Admin in your company. You can find out who these people are by going to your Company profile page and clicking the Members tab. Look for the people with a Community Admin badge and send them a message.
 
 #### Creating content on behalf of your Company <a href="#creating-content" id="creating-content"></a>
 
@@ -83,14 +101,16 @@ You must have the Account Administrator or Community Administrator roles to post
 
 #### [How do I make a post?](https://www.consoleconnect.com/help/account-management/#)
 
-1.
-2.
-3.
+1. Navigate to your **Company’s profile page**.
+2. Click on **Activity** in the left menu. To write a post, **simply start writing** in the text box at the top of the page
+3. Select **Post** when you’re ready to publish.
 
 #### [How do I write an article?](https://www.consoleconnect.com/help/account-management/#)
 
-1.
-2.
-3.
+1. Navigate to your **Company’s profile page**.
+2. Click on **Activity** in the left menu.
+3. Click the **Write article button** in the top right corner just above the post box and start writing!
 
 #### [How do I flag inappropriate content?](https://www.consoleconnect.com/help/account-management/#)
+
+Select the “…” option at the bottom of the post or article you wish to report, then select Inappropriate. This will flag the article for review.
