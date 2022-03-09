@@ -1,6 +1,3 @@
----
-description: HELP CENTER
----
 
 # ConsoleConnect文档中心
 
